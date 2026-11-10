@@ -83,7 +83,7 @@ Actualmente estudio la **Tecnicatura Universitaria en Programación en la UTN**.
 ## 📬 Contacto
 
 - **Correo:** [belenbeningazza22@gmail.com](mailto:belenbeningazza22@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/luciana-belen-beningazza/]
+- **LinkedIn:** https://www.linkedin.com/in/luciana-belen-beningazza/
 
 ---
 
